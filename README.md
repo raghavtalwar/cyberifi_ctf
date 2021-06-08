@@ -1,0 +1,1 @@
+A story based Capture the Flag aimed at Beginners
